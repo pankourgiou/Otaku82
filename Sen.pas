@@ -1,3 +1,3 @@
 
-for _ in range(1000000):
+for _ in range(10):
     print("All art is but imitation of nature.")
